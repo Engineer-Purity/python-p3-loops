@@ -55,4 +55,4 @@ class TestFizzBuzz:
                 i += 1
         
         i = i - 1
-        assert i == 100, f"Only looped {i} times, should have looped 100 times. Check your loop condition!"    
+        assert i == 100, f"Only looped {i} times, should have looped 100 times. Check your loop condition!" 
